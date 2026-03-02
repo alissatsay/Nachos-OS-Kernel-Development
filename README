@@ -26,7 +26,7 @@ Implemented core threading and synchronization primitives and extended the Nacho
 - userprog/UserProcess.java
 - test/*.c
 
-### How To Run & Contribute
+## How To Run & Contribute
 -  From the config/ directory:
 ``` cd config
 	make 
