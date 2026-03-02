@@ -9,7 +9,7 @@ import nachos.userprog.*;
  */
 public class UserKernel extends ThreadedKernel {
     /**
-     * Allocate a new user kernel.
+     * Allocate a new user kernel
      */
     public UserKernel() {
 	super();
